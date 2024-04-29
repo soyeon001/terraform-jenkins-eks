@@ -1,0 +1,9 @@
+---
+# global:
+# image:
+# tag: ""
+
+server:
+  extraArgs:
+    - --insecure 
+    # http를 쓰게함 https는 인증서 받아야 되니까
